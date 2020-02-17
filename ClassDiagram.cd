@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Chomik">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAACAAAAQAgAACAAAAAAAAAAhIAAAAAA=</HashCode>
+      <FileName>Chomik.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gra">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAIAgAAAEAAEAAARgAAAAACCCAAAAAAAAAAAA=</HashCode>
+      <FileName>Gra.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Humor">
+    <Position X="13" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAQAAAAEAAAAAAAAAAAAAAAAAAAEAABAQAAAAAABAA=</HashCode>
+      <FileName>Humor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lista">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUEAIgAAAEAAEAAAkAACAQJAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lista.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Losowanie">
+    <Position X="11.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Losowanie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgABAACAABAAAAQAIEAAAAABAAIAAAADAAAAACAAAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SklepZabawek">
+    <Position X="16.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAEAAEAAIQ=</HashCode>
+      <FileName>SklepZabawek.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weterynarz">
+    <Position X="14.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiAACACA=</HashCode>
+      <FileName>Weterynarz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wiek">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhABAAAAAAAACAAGAAAAAAAAAAAAACAAAgEQBAAAA=</HashCode>
+      <FileName>Wiek.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kot">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="Zwierzatko" ManuallyRouted="true">
+      <Path>
+        <Point X="1.25" Y="0.5" />
+        <Point X="1.25" Y="0.406" />
+        <Point X="2.556" Y="0.406" />
+        <Point X="2.556" Y="3.981" />
+        <Point X="5" Y="3.981" />
+        <Point X="5" Y="3.531" />
+      </Path>
+      <InheritanceModifierLabel ManuallyPlaced="true">
+        <Position X="0.086" Y="0.108" />
+      </InheritanceModifierLabel>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAQAgAACAABAAAAAAAhIAAAAAA=</HashCode>
+      <FileName>Kot.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Owca">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="Zwierzatko" FixedToPoint="true">
+      <Path>
+        <Point X="1.25" Y="0.5" />
+        <Point X="1.25" Y="0.406" />
+        <Point X="2.375" Y="0.406" />
+        <Point X="2.375" Y="4.39" />
+        <Point X="6.5" Y="4.39" />
+        <Point X="6.5" Y="3.723" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAACAAIAAAAQAAAAAQAgAACAAAAAAAAAAhIAAAAAA=</HashCode>
+      <FileName>Owca.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pies">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="Zwierzatko" ManuallyRouted="true">
+      <Path>
+        <Point X="1.25" Y="0.5" />
+        <Point X="1.25" Y="0.406" />
+        <Point X="2.243" Y="0.406" />
+        <Point X="2.243" Y="4.682" />
+        <Point X="8" Y="4.682" />
+        <Point X="8" Y="3.531" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAABAAQAgAACAAAAAAAAAAhIAAAAAA=</HashCode>
+      <FileName>Pies.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Swinka">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAQAgAAKAAAAAAAAAAhIAAAAAA=</HashCode>
+      <FileName>Swinka.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zabawka">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SgAAAAAAAEAAIAABAAAAAQAAJAAACAEAgACgEAgRAAA=</HashCode>
+      <FileName>Zabawka.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zdrowie">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAAAAABAAgAAAAAAAAAACAAAAIAgCgAAAAAAAAAAACA=</HashCode>
+      <FileName>Zdrowie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zwierzatko">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAQIAAAIAAQAAAAAAAAAgABCAAAAGAAAAAhoICAIAQ=</HashCode>
+      <FileName>Zwierzatko.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="zabawka">
+    <Position X="18.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAEAgAAAAAABAAA=</HashCode>
+      <FileName>Lista.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="listaZabawek">
+    <Position X="11.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Lista.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
